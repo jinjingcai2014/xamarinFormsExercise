@@ -1,0 +1,17 @@
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\obj\Debug\Navigation.csprojResolveAssemblyReference.cache
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\obj\Debug\Navigation.MainPage.xaml.g.cs
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\obj\Debug\Navigation.App.xaml.g.cs
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\obj\Debug\Navigation.Contact.ContactsPage.xaml.g.cs
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\obj\Debug\Navigation.Contact.ContactDetailPage.xaml.g.cs
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Navigation.dll
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Navigation.pdb
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Xamarin.Forms.Core.dll
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Xamarin.Forms.Platform.dll
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Xamarin.Forms.Core.pdb
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Xamarin.Forms.Core.xml
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\obj\Debug\Navigation.dll
+D:\xamarinExercise\FourChapter\Navigation\Navigation\Navigation\obj\Debug\Navigation.pdb
